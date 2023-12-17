@@ -1,4 +1,4 @@
-# info_3300_p2
+# INFO_3300_Project 2: Interactive Data Visualization
 
 ![IMG_7463](https://github.com/Ericois/info_3300_p2/assets/47019178/6b558c19-cf04-4269-9952-b74efd065381)
 
